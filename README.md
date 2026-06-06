@@ -40,7 +40,7 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 
 ## 🖼️ Vista previa
 
-![Dashboard Freelance Market](./dashboard-preview.jpg)
+![Dashboard Freelance Market](./vista%20previa%20del%20panel%20de%20control.jpg)
 
 ---
 
