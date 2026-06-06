@@ -40,7 +40,7 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 
 ## 🖼️ Vista previa
 
-![Dashboard Freelance Market](./vista%20previa%20del%20panel%20de%20control.jpg)
+![Dashboard Freelance Market](./dashboard-preview.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 
 | Archivo | Descripción |
 |---|---|
-| `vista previa del panel de control.jpg` | Captura del dashboard desarrollado en Power BI |
+| `dashboard-preview.jpg` | Captura del dashboard desarrollado en Power BI |
 
 > 💡 *Proyecto desarrollado en Power BI Desktop. Visualización disponible como imagen de referencia.*
 
