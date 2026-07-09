@@ -1,61 +1,35 @@
 ## 📊 Freelance Market – Operations and Customer Loyalty
+
 **Eimy Cubillos · 2026**
 
-Dashboard interactivo de análisis del mercado freelance, enfocado en operaciones, fidelización de clientes y comparación entre plataformas (Fiverr, Freelancer, PeoplePerHour).
+Interactive dashboard analyzing the freelance market, focused on operations, customer loyalty, and platform comparison (Fiverr, Freelancer, PeoplePerHour).
 
 ---
 
-## 📌 Objetivo
+## 📌 Objective
 
-Analizar el comportamiento del mercado freelance global para identificar patrones de lealtad de clientes, categorías más rentables y regiones con mayor volumen de proyectos, como apoyo a la toma de decisiones estratégicas.
-
----
-
-## 📈 Métricas principales
-
-| Indicador | Valor |
-|---|---|
-| Rehire Rate Promedio | 44,56% |
-| Client Rate Promedio | 4,00 |
-| Duración promedio de proyectos | 44,70 días |
-| Proyectos completados | 294 mil |
+Analyze global freelance market behavior to identify customer loyalty patterns, the most profitable categories, and regions with the highest project volume, supporting strategic decision-making.
 
 ---
 
-## 🔍 Análisis incluidos
+## 📈 Key Metrics
 
-- **Rehire rate por categoría** – Categorías con mayor tasa de recontratación (Data Entry y Customer Support lideran con 46%)
-- **Duración por región** – Canadá y Asia presentan los proyectos de mayor duración (~5,4 y 5,2 mil días)
-- **Rating de clientes más leales** – Web Development lidera con 4,1
-- **Categorías mejor pagadas** – Web Development encabeza el ranking de pagos más altos (47)
-
----
-
-## 🛠️ Herramientas utilizadas
-
-![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=flat&logo=powerbi&logoColor=black)
+| Indicator                  | Value       |
+| --------------------------- | ----------- |
+| Average Rehire Rate         | 44.56%      |
+| Average Client Rating       | 4.00        |
+| Average Project Duration    | 44.70 days  |
+| Completed Projects          | 294K        |
 
 ---
 
-## 🖼️ Vista previa
+## 🔍 Analysis Included
 
-![Dashboard Freelance Market](./dashboard-preview.jpg)
-
----
-
-## 📁 Archivos del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `dashboard-preview.jpg` | Captura del dashboard desarrollado en Power BI |
-
-> 💡 *Proyecto desarrollado en Power BI Desktop. Visualización disponible como imagen de referencia.*
+- **Rehire rate by category** – Categories with the highest rehire rate (Data Entry and Customer Support lead at 46%)
+- **Duration by region** – Canada and Asia show the longest-running projects (~5.4K and 5.2K days)
+- **Most loyal clients' rating** – Web Development leads with 4.1
+- **Best-paying categories** – Web Development tops the ranking of highest payouts (47)
 
 ---
 
-## 👩‍💻 Autora
-
-**Eimy Mariana Cubillos Agredo**  
-Analista de Datos & Gestión Administrativa  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eimy%20Cubillos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eimy-mariana-cubillos-agredo-960832191/)
+## 🛠️ Tools Used
