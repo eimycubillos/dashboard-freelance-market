@@ -33,3 +33,29 @@ Analyze global freelance market behavior to identify customer loyalty patterns, 
 ---
 
 ## 🛠️ Tools Used
+
+[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white) [![Power BI](https://img.shields.io/badge/Power%20BI-Basic-F2C811?style=flat&logo=powerbi&logoColor=black)](https://img.shields.io/badge/Power%20BI-Basic-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## 🖼️ Preview
+
+[![Dashboard Freelance Market](https://github.com/eimycubillos/dashboard-freelance-market/raw/main/dashboard-preview.jpg)](/eimycubillos/dashboard-freelance-market/blob/main/dashboard-preview.jpg)
+
+---
+
+## 📁 Repository Files
+
+| File                    | Description                                     |
+| ----------------------- | ------------------------------------------------ |
+| `dashboard-preview.jpg` | Screenshot of the dashboard built in Power BI    |
+
+> 💡 *Project developed in Power BI Desktop. Visualization available as a reference image.*
+
+---
+
+## 👩‍💻 Author
+
+**Eimy Mariana Cubillos Agredo**
+Data Analyst & Administrative Management
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eimy%20Cubillos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eimy-mariana-cubillos-agredo-960832191/)
